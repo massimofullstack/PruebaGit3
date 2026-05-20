@@ -1,0 +1,7 @@
+Números pares encontrados:
+4
+10
+8
+20
+
+Total de números pares: 4
